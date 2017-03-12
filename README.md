@@ -2,7 +2,7 @@
 
 ##欢迎大家一起交流，如果对我的项目感兴趣，欢迎来[新浪微博](http://weibo.com/dushaoxiaoxiao)，或者[邮箱](https://mail.qq.com/cgi-bin/frame_html?sid=eVZ4fON6PR70ZzJl&amp;r=d35b29a8d33fc0f1a0a468623ff38406)留言
 
-### 博客主要分类有： ###
+### 博客主要分类有： ### 
 ### 一：HTML ###
 **1、[最全的网络资源汇总](http://www.takozhang.cn/2016/01/08/%E6%9C%80%E5%85%A8%E7%9A%84%E7%BD%91%E7%AB%99%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/)**
 
